@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://haus254.co.ke/sitemap.xml
+
